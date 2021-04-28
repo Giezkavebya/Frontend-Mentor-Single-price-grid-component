@@ -89,7 +89,9 @@ input[type=button]:hover{
     color:white;
     margin-top: -10px;
 }
-
+ul{
+    padding-left: 5px;
+}
 li{
     list-style-type: none;
     color: hsl(204, 43%, 93%);
